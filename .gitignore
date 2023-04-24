@@ -1,0 +1,13 @@
+.idea
+env
+__pycache__/
+/*.json
+storescraper
+**/*.mo
+ghostdriver.log
+*.xml
+node_modules
+cyber.tsv
+http_ca.crt
+elasticsearch-ca.pem
+*.csv
